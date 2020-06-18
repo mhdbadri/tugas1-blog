@@ -1,0 +1,21 @@
+{
+    "name": "acer/sigadgetfix",
+    "description": "Program UTS Web Lanjutan SI UINSU",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Badri",
+            "email": "mhdbadri3@gmail.com"
+        }
+    ],
+
+    "autoload" : {
+        "psr-4" : {
+            "app\\" : "app/"
+        }
+
+    }
+}
