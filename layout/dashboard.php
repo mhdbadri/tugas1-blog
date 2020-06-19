@@ -24,14 +24,10 @@
 
 		<!--menu-->
 		
-		<div class="menu">
-			<a href="dashboard.php">Home</a>
-			<a href="dashboard.php?halaman=kategori_tampil">Kategori</a>
-			<a href="dashboard.php?halaman=post_tampil">Post</a>
-			<a href="dashboard.php?halaman=photos_tampil">Photos</a>
-			<a href="dashboard.php?halaman=album_tampil">Album</a>
-			<a href="dashboard.php?halaman=user_tampil">Users</a>
-			<a href="dashboard.php?halaman=logout">Logout</a>
+		
+		<div>
+			<?php include "menu.php"; ?>
+		
 		</div>
 
 		<div class="isimenu">

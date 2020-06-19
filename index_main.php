@@ -9,20 +9,24 @@
 			<div class="form1">
 				<img src="layout/assets/images/hp.png">
 				<h2 class="text">Handphone</h2>
+				<a class="text2" href="index.php?halaman=login">Klik Untuk Melanjutkan</a>
 			</div>
 			<div class="form2">
 				<img src="layout/assets/images/tablet.png">
 				<h2 class="text">Tablet</h2>
+				<a class="text2" href="index.php?halaman=login">Klik Untuk Melanjutkan</a>
 
 			</div>
 			<div class="form1">
 				<img src="layout/assets/images/laptop.png">
 				<h2 class="text">Laptop</h2>
+				<a class="text2" href="index.php?halaman=login">Klik Untuk Melanjutkan</a>
 
 			</div>
 			<div class="form2">
 				<img src="layout/assets/images/kamera.png">
 				<h2 class="text">Kamera</h2>
+				<a class="text2" href="index.php?halaman=login">Klik Untuk Melanjutkan</a>
 			</div>
 			
 </div>

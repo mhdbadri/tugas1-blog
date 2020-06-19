@@ -48,7 +48,15 @@ $rows = $users->tampil();
 					<td><?php echo $row['user_email']; ?></td>
 					<td><?php echo $row['user_nama']; ?></td>
 					<td><?php echo $row['user_hp']; ?></td>
-					<td><?php echo $row['user_role']; ?></td>
+					<td>
+						<?php 
+						if($row['user_role'] == 1) {
+							echo "Administrator";
+						} else {
+							echo "Operator";
+						}
+						?>				
+					</td>
 				</tr>
 			<tbody>
 			<?php } ?>

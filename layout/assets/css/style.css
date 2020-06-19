@@ -303,15 +303,16 @@ li a#dropdown{
 	width: 70%;
 	
 	margin-top: 30px;
-	margin-bottom: 100px;
+	margin-bottom: 5px;
 }
 .form1 {
 	width: 50%;
 	border: 1px solid;
-	margin-top: 50px;
+	margin-top: 60px;
 	padding: 20px;
 	margin-left: -80px;
 	border-radius: 15px;
+	margin-bottom: -160px;
 	background-color: #00a1ff;
 }
 .form2 {
@@ -320,7 +321,7 @@ li a#dropdown{
 	margin-top: -142px;
 	padding: 20px;
 	margin-right: -80px;
-	margin-bottom: 50px;
+	margin-bottom: 10px;
 	border-radius: 15px;
 	background-color: #00a1ff;
 
